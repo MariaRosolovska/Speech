@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Speech-React/static/css/main.2a3d0a26.chunk.css",
+    "main.js": "/Speech-React/static/js/main.1012c2dd.chunk.js",
+    "main.js.map": "/Speech-React/static/js/main.1012c2dd.chunk.js.map",
+    "runtime-main.js": "/Speech-React/static/js/runtime-main.834658f8.js",
+    "runtime-main.js.map": "/Speech-React/static/js/runtime-main.834658f8.js.map",
+    "static/js/2.457c2c16.chunk.js": "/Speech-React/static/js/2.457c2c16.chunk.js",
+    "static/js/2.457c2c16.chunk.js.map": "/Speech-React/static/js/2.457c2c16.chunk.js.map",
+    "index.html": "/Speech-React/index.html",
+    "precache-manifest.b0aaeb5382a5ef278d7d0baa1a45e65c.js": "/Speech-React/precache-manifest.b0aaeb5382a5ef278d7d0baa1a45e65c.js",
+    "service-worker.js": "/Speech-React/service-worker.js",
+    "static/css/main.2a3d0a26.chunk.css.map": "/Speech-React/static/css/main.2a3d0a26.chunk.css.map",
+    "static/js/2.457c2c16.chunk.js.LICENSE.txt": "/Speech-React/static/js/2.457c2c16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.834658f8.js",
+    "static/js/2.457c2c16.chunk.js",
+    "static/css/main.2a3d0a26.chunk.css",
+    "static/js/main.1012c2dd.chunk.js"
+  ]
+}
